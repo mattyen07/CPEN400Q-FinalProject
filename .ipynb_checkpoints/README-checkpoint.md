@@ -14,10 +14,14 @@
 
 # Contributions
 ## Claire Song
-- Understanding the calculation of Hamiltonians and Cost Functions for Fidelity and Wasserstein, implementation of Hamiltonian calculations.
+- Understanding the calculation of Hamiltonians and Cost Functions for Fidelity and Wasserstein
+- Implementation of Hamiltonian calculations
 ## Justin Hua
-- 
+- Code for encoding and noise correction unitaries
+- Kraus matrices for bit-flip noise
 ## Matthew Chow
-- The code for running the simulations and results minus creating the unitaries
+- Code for running the simulations and results minus creating the unitaries
 ## Matthew Yen
-- 
+- Kraus matrices for phase-flip noise
+- Implementation of VQA with cost calculations
+
