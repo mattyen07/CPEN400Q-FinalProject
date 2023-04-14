@@ -11,6 +11,7 @@
     - Phaseflip Noise Model
     - Training Wasserstein on Alpha, Beta from Fidelity
     - Training Fidelity on Alpha, Beta from Wasserstein
+- Note that running the entire notebook could take a long time (~30 hours potentially) due to the number of iterations and simulations needed for gradient descent
 
 # Contributions
 ## Claire Song
